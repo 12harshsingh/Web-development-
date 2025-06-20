@@ -57,7 +57,7 @@
   <!-- Contact Section -->
   <section id="contact">
     <h2>Contact</h2>
-    <p>Email: john.doe@example.com</p>
+    <p>Email: harshsingh@example.com</p>
     <p>Phone: +123 456 7890</p>
   </section>
 
