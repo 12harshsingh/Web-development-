@@ -11,7 +11,7 @@
 <body>
 
   <header>
-    <h1>John Doe</h1>
+    <h1>harsh singh</h1>
     <p>Web Developer | Front-End Enthusiast</p>
   </header>
 
